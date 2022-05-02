@@ -1,7 +1,5 @@
 # Rojemac
 
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-
 > Esse projeto foi criado para que a empresa Rojemac possa verificar minhas habilidades em React, o projeto foi realizado em "vite".
 
 ### Ajustes e melhorias
