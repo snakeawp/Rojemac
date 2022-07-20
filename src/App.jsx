@@ -11,6 +11,7 @@ function App() {
       <header className="App-header">
         <span className='freteGratis'>Frete Grátis </span>
         <span className='valorCompras'>nas compras acima de R$ 399,99</span>
+        <div className="caioaqui">Teste de merge para caio</div>
       </header>
       <section className='paginaProduto'>
             <CarouselComponent/>
